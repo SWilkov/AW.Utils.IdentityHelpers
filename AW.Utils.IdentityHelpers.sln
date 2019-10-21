@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AW.Utils.IdentityHelpers", "AW.Utils.IdentityHelpers\AW.Utils.IdentityHelpers.csproj", "{40293B8F-FF52-4C9C-8418-25A13E6B667F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40293B8F-FF52-4C9C-8418-25A13E6B667F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40293B8F-FF52-4C9C-8418-25A13E6B667F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40293B8F-FF52-4C9C-8418-25A13E6B667F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40293B8F-FF52-4C9C-8418-25A13E6B667F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1428616B-123F-48B9-9FD6-8BA210A12D5B}
+	EndGlobalSection
+EndGlobal
